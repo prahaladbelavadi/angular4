@@ -5,7 +5,7 @@ Hoping to learn mostly by trial and error.
 
 ## Commands:
 - `ng new angular-cli-workspace-example`
-
+- `ng serve`
 
 
 ## Errors encounterd
@@ -37,3 +37,4 @@ Hoping to learn mostly by trial and error.
         at MergeMapSubscriber._innerSub (C:\Users\praha\Documents\Learning\Angular4\projects\1\node_modules\rxjs\internal\operators\mergeMap.js:81:29)
         at MergeMapSubscriber._tryNext (C:\Users\praha\Documents\Learning\Angular4\projects\1\node_modules\rxjs\internal\operators\mergeMap.js:76:14)
     PS C:\Users\praha\Documents\Learning\Angular4\projects\1\angular-cli-workspace-example>`
+  - install `npm install -dev`
