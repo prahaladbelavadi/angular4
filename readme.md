@@ -17,7 +17,8 @@ Hoping to learn mostly by trial and error.
       at WorkspaceLoader.loadWorkspace (C:\Users\praha\Documents\Learning\Angular4\projects\1\node_modules\@angular\cli\models\workspace-loader.js:31:21)
       at GenerateCommand._loadWorkspace (C:\Users\praha\Documents\Learning\Angular4\projects\1\node_modules\@angular\cli\models\schematic-command.js:292:29)
       at GenerateCommand.<anonymous> (C:\Users\praha\Documents\Learning\Angular4\projects\1\node_modules\@angular\cli\models\schematic-command.js:57:18)
-      at Generator.next (<anonymous>)
+      at Generator.next (<anonymou
+      s>)
       at C:\Users\praha\Documents\Learning\Angular4\projects\1\node_modules\@angular\cli\models\schematic-command.js:14:71
       at new Promise (<anonymous>)
       at __awaiter (C:\Users\praha\Documents\Learning\Angular4\projects\1\node_modules\@angular\cli\models\schematic-command.js:10:12)
