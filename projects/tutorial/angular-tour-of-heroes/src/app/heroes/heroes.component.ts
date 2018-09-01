@@ -8,8 +8,11 @@ import { Component, OnInit } from '@angular/core';
 export class HeroesComponent implements OnInit {
 
   constructor() { }
-
-  ngOnInit() {
+  hero = 'Windstorm';
+  export class Hero {
+    id: number;
+    name: string;
   }
+
 
 }
